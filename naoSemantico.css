@@ -1,0 +1,55 @@
+#barra_inicial {
+    width: 77%;
+    height: 200px;
+    background-color: #ffe9cd;
+    margin: 1%;
+    float: left;
+}
+
+#barra {
+    width: 77%;
+    height: 100px;
+    background-color: #bfe9ff;
+    margin: 1%;
+    float: left;   
+}
+
+#barra_importante {
+    width: 50%;
+    height: 180px;
+    background-color: #f8d7d0;
+    margin: 1%;
+    float: right;
+}
+
+#barra_importante {
+    width: 50%;
+    height: 180px;
+    background-color: #f8d7d0;
+    margin: 1%;
+    float: right;
+}
+
+#barra_esquerda {
+    width: 25%;
+    height: 400px;
+    background-color: #f19ca2;
+    margin: 1%;
+    float: left;
+}
+
+#barra_direita {
+    width: 19%;
+    height: 780px;
+    background-color: #b7d7d9;
+    margin: 1%;
+    float: right;
+}
+
+#rodape {
+    width: 98%;
+    height: 200px;
+    background-color: #ffe9cd;
+    margin: 1%;
+    float: left;
+}
